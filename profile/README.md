@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.jpg" alt="Sala de reuniones de HEKA" width="100%" height="220" />
+  <img src="https://raw.githubusercontent.com/LEGAL-PARTNERS-SAS/.github/main/header.jpg" alt="Sala de reuniones de HEKA" width="100%" height="220" style="object-fit: cover;" />
 </p>
 
 <div align="center">

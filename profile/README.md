@@ -10,12 +10,6 @@
 
 Soluciones legales centradas en el cliente para empresas, emprendedores y personas.
 
-<p>
-  <a href="https://github.com/HEKA-REP"><img src="https://img.shields.io/badge/GitHub-HEKA--REP-181717?style=for-the-badge&logo=github" alt="GitHub de HEKA-REP"></a>
-  <a href="https://heka.com.ec/"><img src="https://img.shields.io/badge/Sitio%20oficial-heka.com.ec-202124?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Sitio oficial de HEKA"></a>
-  <a href="https://www.linkedin.com/company/hekalaw-ec/posts/?feedView=all"><img src="https://img.shields.io/badge/LinkedIn-HEKA%20Law-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de HEKA Law"></a>
-</p>
-
 </div>
 
 ---
